@@ -1,4 +1,8 @@
-# Accounting glossary
+# Bookkeeping App
+By Emilio
+
+
+## Accounting glossary
 
 https://www.xero.com/uk/glossary/
 https://www.businessaccountingbasics.co.uk/bookkeeping-terms/
